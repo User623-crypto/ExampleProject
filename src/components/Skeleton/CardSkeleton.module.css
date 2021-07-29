@@ -1,0 +1,14 @@
+.main{
+    
+    border-radius: 5%;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    min-width: 300px;
+    max-width: 300px;
+    line-height: 50px;
+    background-color: rgb(252, 236, 236);
+}
+.main > * {
+    margin-top: 30px;
+}

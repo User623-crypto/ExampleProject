@@ -1,0 +1,16 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    background-color: rgb(30, 172, 172);
+    margin-top: 25px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5%;
+    color: rgb(95, 93, 93);
+}
+.side{
+    color: gray;
+}

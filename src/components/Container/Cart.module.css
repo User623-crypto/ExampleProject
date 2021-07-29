@@ -1,0 +1,11 @@
+.cart{
+    background-color: aqua;
+    
+    border-radius: 5%;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    min-width: 10vw;
+    max-width: 300px;
+    
+}
